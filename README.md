@@ -1,9 +1,9 @@
-Job Title:             Java Developer
-Location:             Singapore
+##Job Title:            Java Developer
+##Location:             Singapore
 			
 		
-	Job Description 
-	The Financial Markets Integration development team is looking for strong, hands-on candidate to fill the role of Java Developer. The Messaging and Data Integration Development team develops the solutions for message based integration for global Financial Markets application systems at Standard Chartered.  Key current integration initiatives include trade processing systems front-to-back.
+### Job Description 
+	Conduit LLC development team is looking for strong, hands-on candidate to fill the role of Java Developer. The team develops the solutions which includes microservices, dockers, server-less architecture, reactjs, angularjs
 
 
 	Key Roles & Responsibilities 
