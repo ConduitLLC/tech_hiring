@@ -25,7 +25,6 @@
 •	Strong hands-on ability on relational database development, like Oracle, Postgres
 •	Be familiar with Continuous Integration methodology 
 •	Good written and spoken English
-•	Good knowledge about financial markets and trade lifecycle is a big plus
 
 Preferred Qualifications, but not strictly required
 •	Financial Markets knowledge and work experience
@@ -38,7 +37,7 @@ Preferred Qualifications, but not strictly required
 •	Ability to work in a variety of client settings and in a team-oriented, collaborative environment
 
 Diversity & Inclusion
-Standard Chartered is committed to diversity and inclusion. We believe that a work environment which embraces diversity will enable us to get the best out of the broadest spectrum of people to sustain strong business performance and competitive advantage. By building an inclusive culture, each employee can develop a sense of belonging, and can maximise their personal potential.
+Conduit LLC is committed to diversity and inclusion. We believe that a work environment which embraces diversity will enable us to get the best out of the broadest spectrum of people to sustain strong business performance and competitive advantage. By building an inclusive culture, each employee can develop a sense of belonging, and can maximise their personal potential.
 	
 	
 
